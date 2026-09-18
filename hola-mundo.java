@@ -1,0 +1,3 @@
+class HolaMundo {
+    ## aqui va el resto...
+}
